@@ -1,7 +1,6 @@
 /*
   almost_human.js
-  treyhyphen (http://trey.is)
-  https://keybase.io/treyhyphen
+  treyhyphen (https://keybase.io/treyhyphen)
 */
 (function ($) {
 	$.fn.ahtype = function (opts) {
